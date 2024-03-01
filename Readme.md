@@ -2,6 +2,10 @@ En este repositorio se encuentra un sistema de inventario en Spring Boot usando 
 -
 ## ***Sistema de inventario en Spring Boot***
 
+<div>
+	<img src="https://raw.githubusercontent.com/ADLG/Sistema-de-inventario-en-Spring-Boot/main/Inventario%208080.png">
+</div>
+
 ### Especificaciones:
 
 Project - Maven <br>
@@ -20,9 +24,5 @@ Dependencias:
 * `spring-boot-starter-test`
 * `mysql-connector-j`
 * `spring-boot-maven-plugin`
-
-<div>
-	<img src="https://raw.githubusercontent.com/ADLG/Sistema-de-inventario-en-Spring-Boot/main/Inventario%208080.png">
-</div>
 
 *ADLG*
